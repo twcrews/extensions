@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+		<DefaultNamespace>Crews.Extensions</DefaultNamespace>
+		<AssemblyName>Extensions</AssemblyName>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>Crews.Extensions</PackageId>
+		<Authors>Tommy Crews</Authors>
+		<Product>Crews Development .NET Extensions</Product>
+		<Description>A collection of useful extension methods for .NET applications.</Description>
+		<Copyright>Copyright (c) 2021 Crews Development</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/twcrews/extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/twcrews/extensions</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>extensions;formatting;extension;format</PackageTags>
+    <PackageIcon>icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
