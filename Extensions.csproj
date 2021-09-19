@@ -8,7 +8,7 @@
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageId>Crews.Extensions</PackageId>
 		<Authors>Tommy Crews</Authors>
-		<Product>Crews Development .NET Extensions</Product>
+		<Title>Crews Development .NET Extensions</Title>
 		<Description>A collection of useful extension methods for .NET applications.</Description>
 		<Copyright>Copyright (c) 2021 Crews Development</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
